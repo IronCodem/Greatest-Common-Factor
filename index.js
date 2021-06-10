@@ -8,7 +8,8 @@
             }
         }();
     };
-    console.log(gcf(90, 35));
+    console.log(gcf(48, 64));
+    // frok and edit the two numbers (^) to get a different answer
 }());
 
-// Ans: 5
+// Ans: 16
