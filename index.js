@@ -8,8 +8,7 @@
             }
         }();
     };
-    console.log(gcf(48, 64));
-    // fork and edit the two numbers (^) to get a different answer
+    var int_1 = prompt("Enter 1 number: ")
+    var int_2 = prompt("Enter another number: ")
+    console.log(gcf(int_1, int_2));
 }());
-
-// Ans: 16
