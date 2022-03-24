@@ -9,7 +9,7 @@
         }();
     };
     console.log(gcf(48, 64));
-    // frok and edit the two numbers (^) to get a different answer
+    // fork and edit the two numbers (^) to get a different answer
 }());
 
 // Ans: 16
